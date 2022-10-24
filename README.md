@@ -1,5 +1,4 @@
-For live site deployed on firebase
-Check <a target='_blank' href='https://netflix-clone-5cb6d.web.app/'>here</a>
+For live site deployed on firebase check <a target='_blank' href='https://netflix-clone-5cb6d.web.app/'>here</a>
 
 In the project directory, you can run:
 
